@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Андрей Журавский](https://up.htmlacademy.ru/htmlcss/16/user/210151).
-* Наставник: [Андрей Журавский](https://up.htmlacademy.ru/htmlcss/16/user/210151).
+* Студент: [AF](https://up.htmlacademy.ru/htmlcss/16/user/210151).
+* Наставник: [AF](https://up.htmlacademy.ru/htmlcss/16/user/210151).
 
 ---
 
